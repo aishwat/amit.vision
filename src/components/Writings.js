@@ -65,7 +65,7 @@ const writings = [
     title: "Impact on Indian economy after the COVID-19 second wave",
     desc:
       "It has been more than a year and a half since the COVID-19 pandemic penetrated the deepest core of human civilization and made us realize the power of mother nature. In India, after the first wave, we thought that we had gained control of the situation but the second wave found us wanting for basic necessities such as oxygen and medical supplies. It might appear that the second wave is on its way out with daily cases coming down to under 60,000 from the peaks of nearly 4 lakh cases, but we have lost over 3.8 lakh precious lives to COVID-19 already. With the hope that the situation will significantly improve on the medical side, it is time to assess the impact of the second wave on macroeconomics.",
-  }
+  },
   {
     id: "p1",
     cover: P1,
