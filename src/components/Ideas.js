@@ -192,6 +192,14 @@ const ideas = [
     desc:
       "Talking to more than 200 students of SCMHRD class of 2020, Amit shares his perspective on  the evolution of marketplaces.",
   },
+   {
+    id: "i17",
+    src: "cfpK03ku8CE",
+    title:
+      "The Economic Times Future Workforce Webinar – Reimagining Workforce Productivity",
+    desc:
+      "Workforce of future will be driven by entrepreneurialization & will be engaged by democratic ways of working",
+  },
 ];
 
 const Ideas = () => {
