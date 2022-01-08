@@ -55,7 +55,7 @@ const useStyles = makeStyles({
   },
 });
 
-const books = [
+const writings = [
   {
     id: "p1",
     cover: P1,
@@ -124,9 +124,9 @@ const Writings = () => {
     setActiveCard(0);
   };
 
-  const cardClickHandler = (book) => (e) => {
-    console.log(book.title);
-    const newWindow = window.open(book.url, "_blank", "noopener,noreferrer");
+  const cardClickHandler = (writeup) => (e) => {
+    console.log(writeup.title);
+    const newWindow = window.open(writeup.url, "_blank", "noopener,noreferrer");
     if (newWindow) newWindow.opener = null;
   };
 
@@ -134,43 +134,43 @@ const Writings = () => {
     <Fragment>
       <SubHeader>Select Publications</SubHeader>
       <Grid container className={classes.grid}>
-        {books.map((book) => (
+        {writings.map((writeup) => (
           <Grid
-            key={book.id}
+            key={writeup.id}
             item
             // xs={12}
             // sm={4}
             //
             className={classes.gridItem}
-            onMouseEnter={onMouseEnterHandler(book.id)}
-            onMouseLeave={onMouseLeaveHandler(book.id)}
+            onMouseEnter={onMouseEnterHandler(writeup.id)}
+            onMouseLeave={onMouseLeaveHandler(writeup.id)}
           >
             <Card
               className={classes.card}
-              elevation={activeCard === book.id ? 8 : 2}
+              elevation={activeCard === writeup.id ? 8 : 2}
             >
-              <CardActionArea onClick={cardClickHandler(book)}>
+              <CardActionArea onClick={cardClickHandler(writeup)}>
                 <CardMedia
                   component="img"
-                  alt={book.title}
+                  alt={writeup.title}
                   // height="100"
                   className={classes.media}
-                  image={book.cover}
-                  title={book.title}
+                  image={writeup.cover}
+                  title={writeup.title}
                 />
               </CardActionArea>
               <CardContent className={classes.cardContent}>
-                <CardActionArea onClick={cardClickHandler(book)}>
+                <CardActionArea onClick={cardClickHandler(writeup)}>
                   <Typography variant="h5" component="h2" color="primary">
-                    {book.title}
+                    {writeup.title}
                   </Typography>
                 </CardActionArea>
 
                 <Typography
-                  variant={activeCard === book.id ? "body1" : "body2"}
+                  variant={activeCard === writeup.id ? "body1" : "body2"}
                   className={classes.desc}
                 >
-                  {book.desc}
+                  {writeup.desc}
                 </Typography>
               </CardContent>
             </Card>
