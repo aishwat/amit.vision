@@ -16,7 +16,7 @@ import P3 from "../assets/p3.jpg";
 import P4 from "../assets/p4.png";
 import P5 from "../assets/p5.jpg";
 import P6 from "../assets/p6.jpg";
-import Dummy from "../assets/dummy.jpg";
+import P7 from "../assets/financialexpressimpactoneconomy.jpg";
 
 const useStyles = makeStyles({
   card: {
@@ -57,15 +57,7 @@ const useStyles = makeStyles({
 });
 
 const writings = [
-  {
-    id: "p0", 
-    cover: Dummy,
-    url:
-      "https://www.financialexpress.com/economy/impact-on-indian-economy-after-the-covid-19-second-wave/2275353/",
-    title: "Impact on Indian economy after the COVID-19 second wave",
-    desc:
-      "It has been more than a year and a half since the COVID-19 pandemic penetrated the deepest core of human civilization and made us realize the power of mother nature. In India, after the first wave, we thought that we had gained control of the situation but the second wave found us wanting for basic necessities such as oxygen and medical supplies. It might appear that the second wave is on its way out with daily cases coming down to under 60,000 from the peaks of nearly 4 lakh cases, but we have lost over 3.8 lakh precious lives to COVID-19 already. With the hope that the situation will significantly improve on the medical side, it is time to assess the impact of the second wave on macroeconomics.",
-  },
+  
   {
     id: "p1",
     cover: P1,
@@ -118,6 +110,14 @@ const writings = [
     title: "Simple Tricks to Keep Yourself Motivated in tough times",
     desc:
       "Tough times do not last but tough people do. We all go through tough times, some we control and some we influence. Keeping yourself motivated is the key to navigate difficulties.",
+  },
+  {
+    id: "p7",
+    cover: P7,
+    url: "https://www.financialexpress.com/economy/impact-on-indian-economy-after-the-covid-19-second-wave/2275353/",
+    title: "Impact on Indian economy after the COVID-19 second wave",
+    desc:
+      "Agriculture will see a deeper cut from the second wave compared to the first wave where it grew.",
   },
 ];
 
