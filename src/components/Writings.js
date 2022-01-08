@@ -16,7 +16,7 @@ import P3 from "../assets/p3.jpg";
 import P4 from "../assets/p4.png";
 import P5 from "../assets/p5.jpg";
 import P6 from "../assets/p6.jpg";
-import P7 from "../assets/financialexpressimpactoneconomy.jpg";
+import P7 from "../assets/financialexpressimpactoneconomy.jpeg";
 
 const useStyles = makeStyles({
   card: {
