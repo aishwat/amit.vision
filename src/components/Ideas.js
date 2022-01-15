@@ -242,7 +242,7 @@ const Ideas = () => {
 
   return (
     <Fragment>
-      <SubHeader>knowledge and Ideas</SubHeader>
+      <SubHeader>Sharing is caring</SubHeader>
       <Grid container className={classes.grid}>
         {ideas.map((idea) => (
           <Grid
