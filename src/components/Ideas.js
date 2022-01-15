@@ -200,6 +200,14 @@ const ideas = [
     desc:
       "Workforce of future will be driven by entrepreneurialization & will be engaged by democratic ways of working",
   },
+   {
+    id: "i18",
+    src: "9g1a8Fwl3rk",
+    title:
+      "OLX Auto talk 3.0 - Consumer Automotive Experience in a Contactless & Digital future",
+    desc:
+      "How is the used car buying and selling experience evolving due to covid and how does the future look?",
+  },
 ];
 
 const Ideas = () => {
