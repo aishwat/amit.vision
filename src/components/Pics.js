@@ -6,7 +6,7 @@ import { Fragment } from "react";
 import SubHeader from "./SubHeader";
 
 let data = [];
-for (let i = 1; i < 15; i++) {
+for (let i = 1; i < 16; i++) {
   data.push({
     image: `images/img${i}.jpeg`,
     title: `img${i}`,
