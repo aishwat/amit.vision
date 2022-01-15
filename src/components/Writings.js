@@ -66,7 +66,7 @@ const writings = [
       "https://www.financialexpress.com/industry/technology/start-re-imagining-your-cars-apple-is-here-to-disrupt-mobility/2219104/",
     title: "Start Re-imagining your cars - Apple is here to disrupt mobility",
     desc:
-      "Apple changed the way we used mobile phones, the way we used to listen to music. It is a disruptive cash rich force which has changed many industries. It is all set to enter mobility in 2024 by launching cars.",
+      "Financial Express - Apple changed the way we used mobile phones, the way we used to listen to music. It is a disruptive cash rich force which has changed many industries. It is all set to enter mobility in 2024 by launching cars.",
   },
   {
     id: "p2",
@@ -75,7 +75,7 @@ const writings = [
       "http://www.businessworld.in/article/Top-5-Trends-For-The-202x-Decade-In-Automobile-Industry-Disrupt-Or-Die-/19-01-2021-367100/",
     title: "Top 5 trends in 202x decade in Automobile industry: Disrupt or Die",
     desc:
-      "Automobile is a legacy industry, which has yet not seen tectonic digital disruption. 202x decade will be a paradigm shift from internal combustion to EV's, ownership to subscription, human driven to self driven....",
+      "Business world - Automobile is a legacy industry, which has yet not seen tectonic digital disruption. 202x decade will be a paradigm shift from internal combustion to EV's, ownership to subscription, human driven to self driven....",
   },
   {
     id: "p3",
@@ -85,7 +85,7 @@ const writings = [
     title: "How To Receive Constructive Feedback Effectively",
 
     desc:
-      "Often, people confuse constructive feedback with criticism and that's when the negative emotions start to take the front seat and overleap the positive notations",
+      "Business world - Often, people confuse constructive feedback with criticism and that's when the negative emotions start to take the front seat and overleap the positive notations",
   },
   {
     id: "p4",
@@ -93,7 +93,7 @@ const writings = [
     url: "https://www.entrepreneur.com/article/361602",
     title: "How To Look For an Angel Investor For Your Startup",
     desc:
-      "Ideas and practical on finding an investors for your startup when you are in the process of proving the idea.",
+      "Entrepreneur.com - Ideas and practical on finding an investors for your startup when you are in the process of proving the idea.",
   },
   {
     id: "p5",
@@ -110,7 +110,7 @@ const writings = [
     url: "https://www.entrepreneur.com/article/360222",
     title: "Simple Tricks to Keep Yourself Motivated in tough times",
     desc:
-      "Tough times do not last but tough people do. We all go through tough times, some we control and some we influence. Keeping yourself motivated is the key to navigate difficulties.",
+      "Entrepreneur.com - Tough times do not last but tough people do. We all go through tough times, some we control and some we influence. Keeping yourself motivated is the key to navigate difficulties.",
   },
   {
     id: "p7",
@@ -118,7 +118,7 @@ const writings = [
     url: "https://www.financialexpress.com/economy/impact-on-indian-economy-after-the-covid-19-second-wave/2275353/",
     title: "Impact on Indian economy after the COVID-19 second wave",
     desc:
-      "Agriculture will see a deeper cut from the second wave compared to the first wave where it grew.",
+      "Financial Express - Agriculture will see a deeper cut from the second wave compared to the first wave where it grew.",
   },
   {
     id: "p8",
@@ -126,7 +126,7 @@ const writings = [
     url: "https://auto.hindustantimes.com/auto/news/opinion-curious-case-of-indian-car-market-where-david-wins-and-goliath-loses-41636947152901.html",
     title: "Curious case of Indian car market, where David wins and Goliath loses",
     desc:
-      "Ford and GM have not succeeded in India while Kia and MG have seen runaway success. Why?",
+      "Hindustan Times - Ford and GM have not succeeded in India while Kia and MG have seen runaway success. Why?",
   },
 ];
 
