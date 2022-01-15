@@ -194,7 +194,7 @@ const ideas = [
   },
    {
     id: "i17",
-    src: "cfpK03ku8CE",
+    src: "GmVw1nQCaMw",
     title:
       "The Economic Times Future Workforce Webinar – Reimagining Workforce Productivity",
     desc:
