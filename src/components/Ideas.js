@@ -208,6 +208,14 @@ const ideas = [
     desc:
       "How is the used car buying and selling experience evolving due to covid and how does the future look?",
   },
+  {
+    id: "i19",
+    src: "C7F_AC2Ii4c",
+    title:
+      "OLX Autos & Autocar - Are pre-owned cars the new stars?",
+    desc:
+      "Pre-owned car industry has suddenly become the sun shine sector - why and what does the future hold?",
+  },
 ];
 
 const Ideas = () => {
