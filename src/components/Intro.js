@@ -77,11 +77,11 @@ const Intro = () => {
           <Typography gutterBottom>
             An accomplished business leader who has built
             <ul>
-              <li>Across startups and large organisations</li>
+              <li>Across startups (Snapdeal, Rocket Internet) and large organisations (OLX Group and Britannia)</li>
               <li>
-                Businesses grounds up in markets of Asia, Africa and Europe
+                Businesses grounds up in 3 different continents - Asia, Africa and Europe
               </li>
-              <li>Built and led teams from 1 to 1500 with 50+ nationalities</li>
+              <li>Built and led teams from 1 to 2000+ with 50+ nationalities</li>
             </ul>
           </Typography>
 
