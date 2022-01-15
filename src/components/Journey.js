@@ -242,7 +242,7 @@ const Journey = () => {
             Currently CEO OLX Autos India
           </Typography>
           <Chip label="Accomplished at building and leading large teams: 2000+ peopole" />
-          <Chip label="Building businesses from scratch" />
+          <Chip label="Building businesses from scratch to a  USD 500M + P&L " />
           <Chip
             label="E-commerce, Retail, FMCG &
           Automotive domains, Across Asia, Africa & Europe"
