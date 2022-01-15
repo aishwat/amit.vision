@@ -79,9 +79,9 @@ const Intro = () => {
             <ul>
               <li>Across startups (Snapdeal, Rocket Internet) and large organisations (OLX Group and Britannia)</li>
               <li>
-                Businesses grounds up in 3 different continents - Asia, Africa and Europe
+                Businesses grounds up in 3 different continents - Asia, Africa and Europe with large P&L's (USD 500M)
               </li>
-              <li>Built and led teams from 1 to 2000+ with 50+ nationalities</li>
+              <li>Led very large teams (2000+) with 50+ nationalities</li>
             </ul>
           </Typography>
 
