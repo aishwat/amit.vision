@@ -115,6 +115,7 @@ const getWorkEx = () => {
           desc:
             "OLX Autos is the leading pre-owned/used cars classifieds and transactions platform in the emerging markets of Asia and Latin America. Our mission is to organise the car buying and selling  process for consumers. As CEO I am responsible for this pan India business and its growth.",
           points: [
+            "Acting as CEO of OLX India, for the classifieds and the Autos Online and offline business",
             "Build the online classifieds business P&L with its presence across the 4000+ towns in India",
             "Offline retail business under brand name OLX Autos (earlier cashmycar) with more than 100 retail centres in 20 cities",
             "Integrated Online and Offline businesses with full service bouquet for car buyers/sellers & partners",
@@ -240,10 +241,10 @@ const Journey = () => {
           <Typography variant="h5" className={classes.border}>
             Currently CEO OLX Autos India
           </Typography>
-          <Chip label="Leading large team" />
+          <Chip label="Accomplished at building and leading large teams: 2000+ peopole" />
           <Chip label="Building businesses from scratch" />
           <Chip
-            label="E-commerce, FMCG &
+            label="E-commerce, Retail, FMCG &
           Automotive domains, Across Asia, Africa & Europe"
           />
         </Grid>
