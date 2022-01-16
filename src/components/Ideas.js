@@ -216,6 +216,14 @@ const ideas = [
     desc:
       "Pre-owned car industry has suddenly become the sun shine sector - why and what does the future hold?",
   },
+   {
+    id: "i20",
+    src: "8umBABjT2rE",
+    title:
+      "Deliberate talks podcast featuring Amit Kumar as guest",
+    desc:
+      "Diving deep into the world of online classifieds",
+  },
 ];
 
 const Ideas = () => {
