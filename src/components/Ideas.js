@@ -224,6 +224,14 @@ const ideas = [
     desc:
       "Diving deep into the world of online classifieds",
   },
+    {
+    id: "i21",
+    src: "Idl8QlSJC6M",
+    title:
+      "Asia tech podcast featuring Amit Kumar as guest",
+    desc:
+      "Letting Go What is Successful to Become More Successful",
+  },
 ];
 
 const Ideas = () => {
