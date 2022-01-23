@@ -18,6 +18,7 @@ import P5 from "../assets/p5.jpg";
 import P6 from "../assets/p6.jpg";
 import P7 from "../assets/financialexpressimpactoneconomy.jpeg";
 import P8 from "../assets/htauto.jpeg";
+import P9 from "../assets/meta.jpeg";
 
 const useStyles = makeStyles({
   card: {
@@ -127,6 +128,14 @@ const writings = [
     title: "Curious case of Indian car market, where David wins and Goliath loses",
     desc:
       "Hindustan Times - Ford and GM have not succeeded in India while Kia and MG have seen runaway success. Why?",
+  },
+  {
+    id: "p9",
+    cover: P9,
+    url: "https://www.financialexpress.com/industry/technology/from-meta-facebook-to-metaverse-real-world-problems-solved-by-the-virtual/2401692/",
+    title: "From Meta (Facebook) to metaverse: Real world problems solved by the virtual",
+    desc:
+      "Financial Express - The metaverse has diverse use cases, far beyond gaming and entertainment...",
   },
 ];
 
