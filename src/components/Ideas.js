@@ -247,7 +247,7 @@ const ideas = [
     url: "https://qz.com/india/2118279/what-indias-used-car-market-needs-from-the-union-budget-2022/",
     title: "How India’s budget can keep India’s used car market humming along",
     desc:
-      "Expectations of the used car industry from Budget 2022",
+      "In an interview with Quartz india Amit Kumar shares - Expectations of the used car industry from Budget 2022",
   },
   
   
