@@ -14,6 +14,7 @@ import I6 from "../assets/i6.jpg";
 import I11 from "../assets/i11.jpg";
 import I12 from "../assets/i12.jpg";
 import I13 from "../assets/i13.jpg";
+import I14 from "../assets/quartz.jpeg";
 
 const iFrameConfig = {
   host: "https://www.youtube-nocookie.com/embed/",
@@ -239,6 +240,14 @@ const ideas = [
       "OLX Autos-Autocar India Pre-Owned Car Awards 2022 ",
     desc:
       "Getting pre-owned cars to mainstream conversations",
+  },
+   {
+    id: "i14",
+    cover: I14,
+    url: "https://qz.com/india/2118279/what-indias-used-car-market-needs-from-the-union-budget-2022/",
+    title: "How India’s budget can keep India’s used car market humming along",
+    desc:
+      "Expectations of the used car industry from Budget 2022",
   },
   
   
