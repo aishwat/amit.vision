@@ -232,6 +232,16 @@ const ideas = [
     desc:
       "Letting Go What is Successful to Become More Successful",
   },
+  {
+    id: "i22",
+    src: "ZcCd9zkGa_k",
+    title:
+      "OLX Autos-Autocar India Pre-Owned Car Awards 2022 ",
+    desc:
+      "Getting pre-owned cars to mainstream conversations",
+  },
+  
+  
 ];
 
 const Ideas = () => {
