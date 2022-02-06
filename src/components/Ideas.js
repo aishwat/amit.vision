@@ -249,6 +249,14 @@ const ideas = [
     desc:
       "In an interview with Quartz india Amit Kumar shares - Expectations of the used car industry from Budget 2022",
   },
+  {
+    id: "i23",
+    src: "73Xpf2iLRAI",
+    title:
+      "Amit Kumar on My worst investment ever podcast - Offer Feedback in the Right Environment",
+    desc:
+      "Feedback is not just about the annual appraisal; it’s more about being open to talking about it in your weekly one on ones",
+  },
   
   
 ];
