@@ -257,6 +257,14 @@ const ideas = [
     desc:
       "Feedback is not just about the annual appraisal; it’s more about being open to talking about it in your weekly one on ones",
   },
+  {
+    id: "i24",
+    src: "JLDXy-CsIcQ",
+    title:
+      "Gearing up for a bright future with OLX Autos",
+    desc:
+      "I shared the story of used car industry and the plans ahead for OLX Autos ",
+  },
   
   
 ];
