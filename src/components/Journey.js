@@ -111,7 +111,7 @@ const getWorkEx = () => {
       duration: "Since 2017",
       data: [
         {
-          designation: "CEO OLX Autos India",
+          designation: "CEO OLX Group India",
           desc:
             "OLX Autos is the leading pre-owned/used cars classifieds and transactions platform in the emerging markets of Asia and Latin America. Our mission is to organise the car buying and selling  process for consumers. As CEO I am responsible for this pan India business and its growth.",
           points: [
