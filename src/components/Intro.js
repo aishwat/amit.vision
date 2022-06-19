@@ -75,7 +75,7 @@ const Intro = () => {
             CEO OLX Group in India
           </Typography>
           <Typography gutterBottom>
-            An accomplished business leader who has built
+            An accomplished 40 under 40 business leader who has built
             <ul>
               <li>Across startups (Snapdeal, Rocket Internet) and large organisations (OLX Group and Britannia)</li>
               <li>
