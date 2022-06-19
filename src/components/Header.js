@@ -163,7 +163,7 @@ const Header = () => {
         <Toolbar>
           <MenuItem onClick={redirectHandler("/")}>
             <Typography variant="h6" className={classes.title}>
-              Amit Kumar (CEO OLX Autos)
+              Amit Kumar (CEO OLX Group India)
             </Typography>
           </MenuItem>
           {/* <Button color="inherit">Login</Button> */}
