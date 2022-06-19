@@ -239,9 +239,9 @@ const Journey = () => {
             Ex Managing Director - Kaymu (Merged with Jumia - Listed on NYSE)
           </Typography>
           <Typography variant="h5" className={classes.border}>
-            Currently CEO OLX Autos India
+            Currently CEO OLX Group India
           </Typography>
-          <Chip label="Accomplished at building and leading large teams: 2000+ peopole" />
+          <Chip label="Accomplished at building and leading large teams: 2500+ peopole" />
           <Chip label="Building businesses from scratch to a  USD 500M + P&L " />
           <Chip
             label="E-commerce, Retail, FMCG &
