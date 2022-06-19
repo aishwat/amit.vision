@@ -72,7 +72,7 @@ const Intro = () => {
             color="secondary"
             gutterBottom
           >
-            CEO OLX Autos in India
+            CEO OLX Group in India
           </Typography>
           <Typography gutterBottom>
             An accomplished business leader who has built
