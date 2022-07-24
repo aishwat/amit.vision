@@ -33,15 +33,24 @@ const Pics = () => {
           "small",
           "tall",
           "tall",
+
           "tall",
           "small",
           "big",
+          "wide",
           "small",
-          "small",
+
           "tall",
           "tall",
           "big",
           "wide",
+            "big",
+
+            "big",
+            "big",
+            "big",
+            "big",
+
         ]}
       />
     </Fragment>
