@@ -266,6 +266,23 @@ const ideas = [
       "I shared the story of used car industry and the plans ahead for OLX Autos ",
   },
   
+   {
+    id: "i25",
+    src: "LZ8cB31iUg4",
+    title:
+      "Featured - ET Now Leaders of tomorrow",
+    desc:
+      "Sharing my journey and ideas on building businesses in the country; ofcourse pre-owned cars business and its growth ",
+  },
+  
+  {
+    id: "i26",
+    src: "br_0ekvefz4",
+    title:
+      "BGR talks - OLX India journey, strategy and roadmap ahead",
+    desc:
+      "From 2007 to 2022, olx journey from taking out the stigma from buying and selling used products to a used car transactions",
+  },
   
 ];
 
