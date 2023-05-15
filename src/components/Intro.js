@@ -88,7 +88,7 @@ const Intro = () => {
           <Typography gutterBottom>
             An individual
             <ul>
-              <li>A Public Speaker, a Startup Mentor & a columnist</li>
+              <li>A TEDx speaker, a Startup Mentor & a columnist</li>
               <li>Graduate from Indian institution of Technology, Bombay</li>
               <li>MBA from Indian school of Business, Hyderabad</li>
             </ul>
