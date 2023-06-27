@@ -67,7 +67,7 @@ const useStyles = makeStyles({
 const ideas = [
  
   {
-    id: "i27",
+    id: "i0",
     src: "qt7goZJ_zhg",
     title:
       "TEDx talk - Theory of Wait ",
