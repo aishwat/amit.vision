@@ -65,8 +65,18 @@ const useStyles = makeStyles({
 });
 
 const ideas = [
+ 
   {
     id: "i27",
+    src: "qt7goZJ_zhg",
+    title:
+      "TEDx talk - Theory of Wait ",
+    desc:
+      "Wait = Transformation, A thesis counter to the current instant & FOMO driven world. To transform the world, we need to battle it out. Wait for years together.",
+  },
+  
+  {
+    id: "i1",
     src: "GKOOjWNMFsE",
     title:
       "Olx Autos: Online-offline Business Merged, Forays Into Pre-owned Auto Segment | Startup Street",
@@ -284,14 +294,6 @@ const ideas = [
       "From 2007 to 2022, olx journey from taking out the stigma from buying and selling used products to a used car transactions",
   },
   
-  {
-    id: "i1",
-    src: "qt7goZJ_zhg",
-    title:
-      "TEDx talk - Theory of Wait ",
-    desc:
-      "Wait = Transformation, A thesis counter to the current instant & FOMO driven world. To transform the world, we need to battle it out. Wait for years together.",
-  },
   
 ];
 
